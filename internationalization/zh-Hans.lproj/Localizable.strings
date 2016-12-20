@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  internationalization
+
+  Created by wangzhichao on 2016/12/19.
+  Copyright © 2016年 wangzhichao. All rights reserved.
+*/
+myTitle = "标题";
+myLabel = "标签";
+myTextField = "输入框";
+myTextView = "文本框";
